@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-kaueleal_02-00875f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaueleal_02/)](https://www.instagram.com/kaueleal_02/)
 [![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
-Estudante de programação web, com conhecimentos em PHP, Javascript & Typescript, React, entre outras tecnologias para criação de API's Rest e interfaces para consumi-las. No momento me aventuro no mundo Cloud e Serverless.
+Estudante de programação web, com conhecimentos em PHP, Javascript/Typescript, React, entre outras tecnologias para criação de API's Rest e interfaces para consumi-las. No momento me aventuro no mundo Cloud e Serverless.
 
 Ps: não fale mal de php na minha frente ;)
 
@@ -26,8 +26,10 @@ Ps: não fale mal de php na minha frente ;)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20lambda-05122A?style=flat&logo=awslambda)&nbsp;
 -->
 
+<!--
 <h2>Github Stats<h2>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauelima21&show_icons=true&theme=vision-friendly-dark" alt="kauelima21's stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauelima21&layout=compact&theme=vision-friendly-dark" alt="kauelima21's most languages"/>
 </div>
+-->

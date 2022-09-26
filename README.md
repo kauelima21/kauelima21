@@ -2,15 +2,16 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauelima21&color=yellow" alt="Profile views" /> </p> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kauê%20Leal%20de%20Lima-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)](https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)
-[![Instagram Badge](https://img.shields.io/badge/-kaueleal_02-00875f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaueleal_02/)](https://www.instagram.com/kaueleal_02/)
-[![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kauê%20Leal%20de%20Lima-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)](https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)
+[![Instagram Badge](https://img.shields.io/badge/-kaueleal_02-B83F97?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaueleal_02/)](https://www.instagram.com/kaueleal_02/)
+[![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-C5221F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
 Estudante de programação web, com conhecimentos em PHP, Javascript/Typescript, React, entre outras tecnologias para criação de API's Rest e interfaces para consumi-las. No momento me aventuro no mundo Cloud e Serverless.
 
 Ps: não fale mal de php na minha frente ;)
 
 <!--
+verde = 00875f
 <h2>Tecnologias</h2>
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

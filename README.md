@@ -9,7 +9,7 @@ Cloud development analyst @TOTVS
 [![Instagram Badge](https://img.shields.io/badge/-kaueleal_02-4D90DC?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaueleal_02/)](https://www.instagram.com/kaueleal_02/)
 [![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-4D90DC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
-Web programming student, with knowledge in PHP, Javascript/Typescript, React and among other technologies for creating API's Rest and interfaces to consume them. At the moment I venture into the Cloud and Serverless world.
+Web programming student, with knowledge in PHP, Typescript, Python and among other technologies for creating API's Rest and interfaces to consume them. At the moment I work with Cloud and Serverless apps.
 
 <!--
 verde = 00875f

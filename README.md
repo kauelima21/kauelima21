@@ -9,7 +9,7 @@ Cloud development analyst @TOTVS
 [![Instagram Badge](https://img.shields.io/badge/-kaueleal_02-4D90DC?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaueleal_02/)](https://www.instagram.com/kaueleal_02/)
 [![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-4D90DC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
-Web programming student, with knowledge in PHP, Typescript, Python and among other technologies for creating API's Rest and interfaces to consume them. At the moment I work with Cloud and Serverless apps.
+Desenvolvedor Full Stack focado em criar soluções escaláveis e eficientes. Trabalho com Python, Angular e AWS, utilizando arquiteturas serverless para construir aplicações modernas e ágeis. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas para desenvolver código limpo e bem estruturado. Aqui no GitHub, compartilho projetos, experimentos e soluções para desafios do desenvolvimento web.
 
 <!--
 verde = 00875f

@@ -8,7 +8,7 @@ Cloud development analyst @TOTVS
 [![Linkedin Badge](https://img.shields.io/badge/-Kauê%20Leal%20de%20Lima-4D90DC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)](https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)
 [![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-4D90DC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
-Desenvolvedor Full Stack focado em criar soluções escaláveis e eficientes. Trabalho com arquiteturas serverless para construir aplicações modernas e ágeis. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas para desenvolver código limpo e bem estruturado. Aqui no GitHub, compartilho projetos, experimentos e soluções para desafios do desenvolvimento web.
+Desenvolvedor Full Stack e AWS Serverless. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas para desenvolver código limpo e bem estruturado. Aqui no GitHub, compartilho projetos, experimentos e soluções para desafios do desenvolvimento web.
 
 <!--
 verde = 00875f

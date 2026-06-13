@@ -3,12 +3,12 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauelima21&color=yellow" alt="Profile views" /> </p> -->
 
-Cloud development analyst @TOTVS
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kauê%20Leal%20de%20Lima-4D90DC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)](https://www.linkedin.com/in/kau%C3%AA-leal-de-lima-171a73247/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Kauê%20Leal%20de%20Lima-4D90DC?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kaue-leal/)](https://www.linkedin.com/in/kaue-leal/)
 [![Gmail Badge](https://img.shields.io/badge/-kaueleal2002@gmail.com-4D90DC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaueleal2002@gmail.com)](mailto:kaueleal2002@gmail.com)
 
-Desenvolvedor Full Stack e AWS Serverless. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas para desenvolver código limpo e bem estruturado. Aqui no GitHub, compartilho projetos, experimentos e soluções para desafios do desenvolvimento web.
+Full Stack and AWS Serverless Developer.
+
+Always looking to learn new technologies and apply best practices to develop clean and well-structured code. Here on GitHub, I share projects, experiments, and solutions to web development challenges.
 
 <!--
 verde = 00875f
